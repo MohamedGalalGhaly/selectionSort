@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508318818 source:/home/mohamed-galal/Desktop/Embedded/selectionSort/main.c
+	<stdio.h>
+	<stdlib.h>
+
